@@ -489,7 +489,7 @@ map.addLayer(lmetroD);
 
 var mixed = {
     "Pollution Iris": commiris,           // BaseMaps
-    "Ligne de metro": metro, 		     // BaseMaps
+    "Ligne de métro": metro, 		     // BaseMaps
     "Parkings": groupe_park,			// BaseMaps
     "Buffer 300m" : parking_buff,      // BaseMaps
     "Métro Ligne B " : lmetroB,       // BaseMaps
